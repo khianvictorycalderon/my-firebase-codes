@@ -1,0 +1,26 @@
+body {
+    background:rgba(239, 239, 239, 0.926);
+}
+
+.center-h {
+    text-align:center;
+}
+
+.w-70 {
+    width:70%;
+}
+
+.form-box {
+    background:rgba(255, 255, 255, 0.941);
+    padding:2%;
+    box-shadow:2px 2px 8px rgba(0, 0, 0, 0.33);
+}
+
+.link {
+    cursor:pointer;
+}
+
+.error-message {
+    color: red;
+    text-decoration: underline;
+}
